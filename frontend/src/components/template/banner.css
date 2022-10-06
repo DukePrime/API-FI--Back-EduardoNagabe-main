@@ -1,0 +1,11 @@
+aside.BANNER{
+    background-color: var(--bg-dark);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside.BANNER img {
+    padding: 0px 15px;
+    width: 100%;
+}
